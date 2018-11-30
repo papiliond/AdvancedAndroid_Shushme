@@ -10,7 +10,11 @@
     <string name="enable_geofences">Enable Geofences</string>
     <string name="privacy">http://www.google.com/policies/privacy</string>
     <string name="ringer_permissions">Ringer Permissions</string>
-    <string name="silent_mode_activated">Silent mode activated</string>
+    <string name="notification_channel_id">default</string>
+    <string name="notification_channel_name">shushme</string>
+    <string name="silent_mode_activated">Silent Mode Activated</string>
+    <string name="back_to_normal">Back To Normal</string>
     <string name="touch_to_relaunch">Touch to launch the app.</string>
-    <string name="back_to_normal">Back to normal</string>
+    <string name="places_context_menu_title">Edit Place</string>
+    <string name="delete">Delete</string>
 </resources>
